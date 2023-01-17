@@ -7,8 +7,9 @@
 3. Военно-Космическую академию им. А.Ф.Можайского  
     ![фото академии](https://vka.mil.ru/upload/site5/document_news/8ZV2IVHLzT.jpg)  
 ### Прохожу обучение:
-- В онлайн-школе [Нетология](https://netology.ru)
-- На сайте [Курсера](https://www.coursera.org)
-- На сайте [Степик](https://stepik.org)  
+- В онлайн-школе [___Нетология___](https://netology.ru)
+- На сайте [___Курсера___](https://www.coursera.org)
+- На сайте [___Степик___](https://stepik.org)  
 ### Мои цели на ближайшее будущее:
-Стать высококлассным специалистом ![фото предполагаемого результата](https://prexplore.ru/wp-content/uploads/2017/11/Fotolia_4310ription_XL.jpg)
+Стать высококлассным специалистом в области программирования на языке ***___PYTHON !___***  
+ ![фото предполагаемого результата](https://prexplore.ru/wp-content/uploads/2017/11/Fotolia_4310ription_XL.jpg)
